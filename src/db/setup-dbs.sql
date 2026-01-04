@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS server_test ;
+CREATE DATABASE server_test ;
+
+DROP DATABASE IF EXISTS server_dev ;
+CREATE DATABASE server_dev ;
